@@ -1,0 +1,3 @@
+[submodule "my-grpc-prisma-app"]
+    path = my-grpc-prisma-app
+	url = https://github.com/tontoko/my-grpc-prisma-app.git
